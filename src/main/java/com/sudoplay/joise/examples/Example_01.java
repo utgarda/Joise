@@ -42,7 +42,7 @@ public class Example_01 {
 
     /*
      * ... route it through an autocorrection module...
-     * 
+     *
      * This module will sample it's source multiple times and attempt to
      * auto-correct the output to the range specified.
      */

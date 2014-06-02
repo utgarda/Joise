@@ -37,9 +37,9 @@ import com.sudoplay.joise.module.ModuleTranslateDomain;
  * the various parameters until you get something you like. It's not a perfect
  * science, and there are often many ways you can accomplish any given effect.'
  * -Joshua Tippetts
- * 
+ *
  * @author Jason Taylor
- * 
+ *
  */
 public class Example_02 {
 
